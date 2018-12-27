@@ -16,8 +16,8 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Thin & Long~"
+locale                   : "ko-KR"
+title                    : "Thin & Long"
 title_separator          : "-"
 name                     : "kjstyle"
 description              : "생존주의 프로그래머"
